@@ -14,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "fastify": "^4.27.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
   }
 }
